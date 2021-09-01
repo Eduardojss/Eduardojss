@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eduardojss my full name is Eduardo José Silveira
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Ruby on rails
+- 💞️ I’m looking to collaborate to everyone
+- 📫 to reach me send me a e-mail edu10_silveira@hotmail.com
